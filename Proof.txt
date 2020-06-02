@@ -1,0 +1,19 @@
+TacticalFaceplant28/05/2020
+make sure to test with what ever cruel stuff people can do to the nbt data of a map i dont know if that glitches things
+dominika28/05/2020
+I don't know what that would be, but it shouldn't :p
+TacticalFaceplant28/05/2020
+ok good
+TacticalFaceplant28/05/2020
+so i have the pathfinder seperated from the rest of my mods now. i will send you a zip with a clone form my repo inside for starters.  i would like to cooperate on the development of the module / tenor / what ever you will do with it. how would be the best way to colaborate on this without wirteaccess on kami. my idea is  you could make a feature branch and i could work on a fork  and do a pull request for every bit of code i do. do you have any better ideas
+dominika28/05/2020
+I would be willing to give you write access to tenor, just give me a bit too look over at and I'll see how it works
+also can you assure me that you have the full rights to the pathing code, and would be willing to license it under LGPL V3
+TacticalFaceplant29/05/2020
+not a big fan of their copy left but i guess its a must with baritone beeing lgpl v3 and i do have coded it myself.
+Attachment file type: archive
+KamiElytra-master.zip
+76.97 KB
+it has a keybind in the ingame controls
+dominika29/05/2020
+thanks c:
